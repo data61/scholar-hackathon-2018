@@ -20,7 +20,14 @@ The current prize categories may include the following (though they may also cha
 ## What should I bring?
 Bring along laptops with your development environment already set up. Make sure you have the data you intend to use already downloaded. The artworks will be presented to the judges so make sure it is possible to put them on a projector or play them through a speaker etc.
 
-## Datasets
+## Ideas for Datasets
 
 Any data from Nasa earth observations:
 https://globalchange.nasa.gov/search/Titles.do?search=#titles
+
+Australian BOM:
+http://www.bom.gov.au/climate/data/
+
+Whale Sounds:
+http://cis.whoi.edu/science/B/whalesounds/index.cfm
+
