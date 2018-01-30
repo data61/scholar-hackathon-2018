@@ -25,10 +25,21 @@ Bring along laptops with your development environment already set up. Make sure 
 Any data from Nasa earth observations:
 https://globalchange.nasa.gov/search/Titles.do?search=#titles
 
+Atlas of Living Australia
+http://www.ala.org.au/ 
+
+Measurements from Coral Reefs:
+https://coralreefwatch.noaa.gov/crtr/data_resources.php
+
 Australian BOM:
 http://www.bom.gov.au/climate/data/
 http://www.bom.gov.au/australia/stormarchive/storm.php
 
+National Centre for Biotechnology Information
+www.ncbi.nlm.nih.gov
+
 Whale Sounds:
 http://cis.whoi.edu/science/B/whalesounds/index.cfm
+
+
 
