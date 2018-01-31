@@ -38,7 +38,9 @@ http://www.bom.gov.au/australia/stormarchive/storm.php
 National Centre for Biotechnology Information
 www.ncbi.nlm.nih.gov
 
-Whale Sounds:
+Animal calls:
+http://cis.whoi.edu/science/B/whalesounds/index.cfm
+https://www.xeno-canto.org/
 http://cis.whoi.edu/science/B/whalesounds/index.cfm
 
 
