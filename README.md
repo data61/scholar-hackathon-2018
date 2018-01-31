@@ -27,6 +27,10 @@ Bring along laptops with your development environment already set up. Make sure 
 
 ## Ideas for datasets
 
+AREMI Australian solar intensity historical observations:
+
+https://nationalmap.gov.au/renewables/#share=s-bJkPacTA9F4GDFj0
+
 Any data from Nasa earth observations:
 
 https://globalchange.nasa.gov/search/Titles.do?search=#titles
