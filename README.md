@@ -57,5 +57,12 @@ https://www.xeno-canto.org/
 
 http://cis.whoi.edu/science/B/whalesounds/index.cfm
 
+Geoscience Australia:
+
+http://www.geoscience.gov.au/cgi-bin/mapserv?map=/nas/web/ops/prod/apps/mapserver/gadds/wms_map/gadds.map&mode=browse
+
+http://www.ga.gov.au/data-pubs/data-compilations/geophysics
+
+
 
 
