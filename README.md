@@ -23,30 +23,34 @@ Bring along laptops with your development environment already set up. Make sure 
 
 ## Ideas for datasets
 
- - Any data from Nasa earth observations:
-      
-      https://globalchange.nasa.gov/search/Titles.do?search=#titles
+Any data from Nasa earth observations:
+
+https://globalchange.nasa.gov/search/Titles.do?search=#titles
  
- - Atlas of Living Australia
- 
-    http://www.ala.org.au/ 
+Atlas of Living Australia:
 
- - Measurements from Coral Reefs:
+http://www.ala.org.au/ 
 
-   https://coralreefwatch.noaa.gov/crtr/data_resources.php
+Measurements from Coral Reefs:
 
- - Australian BOM:
+https://coralreefwatch.noaa.gov/crtr/data_resources.php
 
-  http://www.bom.gov.au/climate/data/
+Australian BOM:
 
-  http://www.bom.gov.au/australia/stormarchive/storm.php
+http://www.bom.gov.au/climate/data/
 
-National Centre for Biotechnology Information
+http://www.bom.gov.au/australia/stormarchive/storm.php
+
+National Centre for Biotechnology Information:
+
 www.ncbi.nlm.nih.gov
 
 Animal calls:
+
 http://cis.whoi.edu/science/B/whalesounds/index.cfm
+
 https://www.xeno-canto.org/
+
 http://cis.whoi.edu/science/B/whalesounds/index.cfm
 
 
