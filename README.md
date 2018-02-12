@@ -23,6 +23,9 @@ The current prize categories may include the following (though they may also cha
   - Most original data-driven artwork
 
 ## What should I bring?
+
+_MAKE SURE YOU DOWNLOAD YOUR DATA BEFORE YOU ARRIVE!!!_
+
 Bring along laptops with your development environment already set up. Make sure you have the data you intend to use already downloaded. The artworks will be presented to the judges so make sure it is possible to put them on a projector or play them through a speaker etc.
 
 ## Ideas for datasets
