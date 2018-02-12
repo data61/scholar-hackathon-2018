@@ -34,6 +34,10 @@ https://nationalmap.gov.au/renewables/#share=s-bJkPacTA9F4GDFj0
 Any data from Nasa earth observations:
 
 https://globalchange.nasa.gov/search/Titles.do?search=#titles
+
+Positions of celestial bodies:
+
+https://ssd.jpl.nasa.gov/?ephemerides
  
 Atlas of Living Australia:
 
