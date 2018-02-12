@@ -74,6 +74,8 @@ http://www.geoscience.gov.au/cgi-bin/mapserv?map=/nas/web/ops/prod/apps/mapserve
 
 http://www.ga.gov.au/data-pubs/data-compilations/geophysics
 
+Global Tides Data:
 
+http://www.psmsl.org/data/obtaining/
 
 
