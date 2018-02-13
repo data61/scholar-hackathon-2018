@@ -3,17 +3,16 @@
 The goal of the summer scholar coding activity is to write software to produce an artwork from one or more datasets. 
 
 ## What is a data-driven artwork?
-Whatever you think of as an artwork. We encourage you to use the data to create something beautiful or challenging: a picture, an animation, a piece of music, a poem, a story, a sculpture, or something else! The theme of the competition this year is "The Natural World".
+Art that's created using data. We encourage you to use the data to produce something beautiful or challenging: a picture, an animation, a piece of music, a poem, a story, a sculpture, or something else! The theme of the competition this year is "The Natural World".
 
 ## How does the competition work?
-Each artwork should be generated from one or more datasets, using software written during the hackathon (not beforehand). The data can be taken from the list below, or you can find your own data. Either way, we suggest you download them before the day.
+Each artwork should be generated from one or more datasets, using software written during the hackathon (not beforehand). The data can be taken from the list below, or you can find your own data. Either way, we strongly suggest you download them beforehand. Team's will have 4 hours on Wednesday (9:30 - 13:30) to produce the artwork but it's worth having a vision and the relevant datasets ready to go before 9:30 am. 
 
 ## Teams
 We recommend forming teams of 2-3, with 4 the absolute maximum. We've created a channel on the data61 slack (data61.slack.com) to help find team-mates. The channel is #scholarhack2018.
 
 ## Presentations
-At the end of the hackathon each team will present their artwork, briefly describing the data they used and how it was made.
-Try to keep performances/videos/music under two minutes so we can get through everyone.
+At the end of the hackathon each team will present their artwork, briefly describing the data they used and how it was made. Each team will be alloted 1 minute to explain and demonstrate their artwork to the judges.
 
 ## Prizes
 The current prize categories may include the following (though they may also change on the day depending on the volume of submissions)
