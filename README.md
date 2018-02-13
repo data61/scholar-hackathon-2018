@@ -20,7 +20,7 @@ The current prize categories may include the following (though they may also cha
   - Best data-driven visual artwork
   - Best data-driven audio artwork
   - Best data-driven text artwork
-  - Best data-driven physical artwork (sculpture or performance)
+  - Best data-driven dynamic artwork (video or performance)
   - Artwork with the most insight into the data
   - Most original data-driven artwork
 
