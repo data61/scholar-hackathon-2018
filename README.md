@@ -6,10 +6,10 @@ The goal of the summer scholar coding activity is to write software to produce a
 Art that's created using data. We encourage you to use the data to produce something beautiful or challenging: a picture, an animation, a piece of music, a poem, a story, a sculpture, or something else! The theme of the competition this year is "The Natural World".
 
 ## How does the competition work?
-Each artwork should be generated from one or more datasets, using software written during the hackathon (not beforehand). This year's theme is "Open Data". The data should be sourced using Data61's open data discovery platform - search.data.gov.au. It catalogs the majority of Australia's publically available government datasets. You can also incorporate additional datasets discovered elsewhere on the web to enhance your submission, if necessary.  We *strongly* suggest you download your data beforehand. Team's will have 4 hours on Wednesday (9:30 - 13:30) to produce the artwork but it's worth having a vision and the relevant datasets ready to go before 9:30 am. 
+Each artwork should be generated from one or more datasets, using software written during the hackathon (not beforehand). This year's theme is "Open Data". The data should be sourced using Data61's open data discovery platform - search.data.gov.au. It catalogs the majority of Australia's publically available government datasets. You can also incorporate additional datasets discovered elsewhere on the web to enhance your submission, if necessary.  We *strongly* suggest you download your data beforehand. Team's will have 4 hours on Thursday (9:30 - 13:30) to produce the artwork but it's worth having a vision and the relevant datasets ready to go before 9:30 am. 
 
 ## Teams
-We recommend forming teams of 2-3, with 4 the absolute maximum. We've created a channel on the data61 slack (data61.slack.com) to help find team-mates. The channel is #scholarhack2018.
+We recommend forming teams of 3-4, with 5 the absolute maximum. We've created a channel on the data61 slack (data61.slack.com) to help find team-mates. The channel is #scholarhack2018.
 
 ## Presentations
 At the end of the hackathon each team will present their artwork, briefly describing the data they used and how it was made. Each team will be alloted 1 minute to explain and demonstrate their artwork to the judges.
