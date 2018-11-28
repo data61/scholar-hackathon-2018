@@ -3,7 +3,7 @@
 The goal of the summer scholar coding activity is to write software to produce an artwork from one or more datasets. 
 
 ## What is a data-driven artwork?
-Art that's created using data. We encourage you to use the data to produce something beautiful or challenging: a picture, an animation, a piece of music, a poem, a story, a sculpture, or something else! The theme of the competition this year is "The Natural World".
+Art that's created using data. We encourage you to use the data to produce something beautiful or challenging: a picture, an animation, a piece of music, a poem, a story, a sculpture, or something else! The theme of the competition this year is "Open Data".
 
 ## How does the competition work?
 Each artwork should be generated from one or more datasets, using software written during the hackathon (not beforehand). This year's theme is "Open Data". The data should be sourced using Data61's open data discovery platform - [search.data.gov.au](https://search.data.gov.au/). It catalogs the majority of Australia's publically available government datasets. You can also incorporate additional datasets discovered elsewhere on the web to enhance your submission, if necessary.  We *strongly* suggest you download your data beforehand. Team's will have 4 hours on Thursday (9:30 - 13:30) to produce the artwork but it's worth having a vision and the relevant datasets ready to go before 9:30 am. 
